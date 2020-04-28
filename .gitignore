@@ -1,0 +1,13 @@
+venv/
+
+__pycache__/
+
+*.db
+
+.flaskenv
+
+migrations/
+
+*.geany
+
+
